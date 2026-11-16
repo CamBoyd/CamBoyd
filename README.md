@@ -20,11 +20,12 @@ The application currently includes a nearly 200-table (and counting!) database s
 Vantage is in pre-launch development, with core application infrastructure established and financial business logic actively under development.
 
 ### [Anomaly — Data Processing Language](https://github.com/CamBoyd/Anomaly)
-I'm also developing Anomaly, a custom programming language designed to make working with datasets more approachable for non-programmers.
 
-The language uses TypeScript and Langium to implement a readable syntax inspired by Python and SQL.
+I'm developing Anomaly, a domain-specific programming language designed to make data manipulation accessible to non-programmers through readable, Python- and SQL-inspired syntax.
 
-Some of the core basic functionality of a programming language currently exists: variables, literals, mathematical expressions, conditionals and booleans.  I am currently working on implementing strings, nulls, undefined, loops and functions.
+Built with TypeScript and Langium, Anomaly includes foundational interpreter functionality for variables, numeric expressions, comparisons, Boolean operations, and conditional execution. Current development focuses on expanding its type system and adding additional language constructs.
+
+The long-term goal is to provide an approachable way to query and transform structured datasets without requiring traditional programming experience.
 
 ## Technical Interests
 
