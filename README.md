@@ -7,7 +7,7 @@ I have 7+ years of professional experience developing enterprise integrations, E
 
 ## What I'm Working On
 
-### Vantage — Construction Accounting Platform
+### [Vantage — Construction Accounting Platform](https://github.com/CamBoyd/vantage-architecture)
 I'm the co-founder and sole software engineer developing Vantage, a comprehensive construction accounting application using:
 
 - TypeScript, Next.js, and React
@@ -19,14 +19,12 @@ The application currently includes a nearly 200-table (and counting!) database s
 
 Vantage is in pre-launch development, with core application infrastructure established and financial business logic actively under development.
 
-### Anomaly — Data Processing Language
+### [Anomaly — Data Processing Language](https://github.com/CamBoyd/Anomaly)
 I'm also developing Anomaly, a custom programming language designed to make working with datasets more approachable for non-programmers.
 
 The language uses TypeScript and Langium to implement a readable syntax inspired by Python and SQL.
 
-Anomaly is a side-project that spawned out of a web app I was independently working on in my free time at Silvertrek Systems.  That project was centered around making the developers' time more efficient by allowing non-technical users and customers have more control over their data.
-
-I started working on Anomaly when I realized there needed to be a middle ground between the pre-built application functionality and customized code for manipulating data that non-technical users would be less able to use.
+Some of the core basic functionality of a programming language currently exists: variables, literals, mathematical expressions, conditionals and booleans.  I am currently working on implementing strings, nulls, undefined, loops and functions.
 
 ## Technical Interests
 
