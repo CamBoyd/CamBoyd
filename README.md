@@ -3,7 +3,7 @@
 
 I'm a software engineer specializing in backend development, relational databases, data engineering, and full-stack applications.
 
-I have 7+ years of professional experience developing enterprise integrations, ETL pipelines, and database-driven software. My work includes migrating complex financial data between accounting systems, developing API integrations, and independently leading technical projects from requirements gathering through deployment.
+I have 7+ years of professional experience developing enterprise integrations, ETL pipelines, and database-driven software. My professional work focuses on turning ambiguous business requirements into reliable systems, including enterprise data migrations, API integrations, complex relational databases, and independently delivered technical solutions.
 
 ## What I'm Working On
 
